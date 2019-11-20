@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfTiledMisc.cpp \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfTiledMisc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathBox.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathVec.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexBaseExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathLimits.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathMath.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathPlatform.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfHeader.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfLineOrder.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfCompression.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfName.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfTileDescription.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfInt64.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathInt64.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/Iex.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexMacros.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexMathExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexThrowErrnoExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfMisc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfPixelType.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfCompressor.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfChannelList.h

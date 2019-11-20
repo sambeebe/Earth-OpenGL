@@ -1,0 +1,8 @@
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/CMakeFiles/earth.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/CMakeFiles/glad.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/CMakeFiles/ALL_BUILD.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/CMakeFiles/ZERO_CHECK.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/glfw-3.2/CMakeFiles/ALL_BUILD.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/glfw-3.2/CMakeFiles/ZERO_CHECK.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/glfw-3.2/src/CMakeFiles/glfw.dir
+/Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/build/FreeImage3151/CMakeFiles/FreeImage.dir

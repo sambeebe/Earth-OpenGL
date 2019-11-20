@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/PluginEXR.cpp \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/Utilities.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfIO.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfInt64.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathInt64.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/Iex/Iex.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexMacros.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexBaseExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexMathExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Iex/IexThrowErrnoExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfOutputFile.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfHeader.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfLineOrder.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfCompression.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfName.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfTileDescription.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathVec.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathExc.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathLimits.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathMath.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathPlatform.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Imath/ImathBox.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfFrameBuffer.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfPixelType.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfThreading.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfInputFile.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfTiledOutputFile.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfRgbaFile.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/IlmImf/ImfRgba.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/OpenEXR/Half/half.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfChannelList.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfArray.h \
+  /Users/sambeebe/Documents/summateaching-assignment_4-ac0d2df6604a/FreeImage3151/Source/FreeImage/../OpenEXR/IlmImf/ImfPreviewImage.h
